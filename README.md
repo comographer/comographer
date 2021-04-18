@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @comographer
 - 👀 I’m interested in ... full-stack web development
 - 🌱 I’m currently learning ... Python, Django, Javascript, HTML & CSS
-- 📫 How to reach me ... kimgeunmo@gmail.com / [a link](https://twitter.com/_Comographer)
+- 📫 How to reach me ... kimgeunmo@gmail.com / [Twitter](https://twitter.com/_Comographer)
 
 <!---
 comographer/comographer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
