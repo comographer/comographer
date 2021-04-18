@@ -3,10 +3,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comographer&layout=compact&theme=dark)
 
 - 👋 Hi, I’m @comographer
-- 👀 I’m interested in ... software engineering and full-stack web development
+- 👀 I’m interested in ... full-stack web development
 - 🌱 I’m currently learning ... Python, Django, Javascript, HTML & CSS
-- 💞️ I’m looking to collaborate on ... Not at that level yet
-- 📫 How to reach me ... kimgeunmo@gmail.com
+- 📫 How to reach me ... kimgeunmo@gmail.com / [a link](https://twitter.com/_Comographer)
 
 <!---
 comographer/comographer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
